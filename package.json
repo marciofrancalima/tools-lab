@@ -4,7 +4,7 @@
   "description": "Projeto base para experimentar e avaliar bibliotecas e ferramentas de desenvolvimento JavaScript antes de sua integração em projetos de produção.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "debug": "ts-node ./src/main.ts"
   },
   "keywords": [],
   "author": "Márcio França Lima",
