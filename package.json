@@ -1,0 +1,17 @@
+{
+  "name": "tools-lab",
+  "version": "1.0.0",
+  "description": "Projeto base para experimentar e avaliar bibliotecas e ferramentas de desenvolvimento JavaScript antes de sua integração em projetos de produção.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Márcio França Lima",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
